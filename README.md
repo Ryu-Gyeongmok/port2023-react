@@ -37,7 +37,7 @@ git init
 git add README.md
 git commit -m "🥳 리액트 첫 커밋"
 git branch -M main
-git remote add origin https://github.com/webstoryboy/port2023-react.git
+git remote add origin https://github.com/Ryu-Gyeongmok/port2023-react.git
 git push -u origin main
 
 git add .
