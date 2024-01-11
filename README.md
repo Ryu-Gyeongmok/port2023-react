@@ -35,11 +35,11 @@
 ## 깃허브
 git init
 git add README.md
-git commit -m "🥳 리액트 첫 커밋"
+git commit -m "커밋"
 git branch -M main
 git remote add origin https://github.com/Ryu-Gyeongmok/port2023-react.git
 git push -u origin main
 
 git add .
-git commit -m "😤 다시 한번 커밋"
+git commit -m "커밋"
 git push -u origin main

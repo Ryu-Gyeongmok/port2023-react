@@ -4,7 +4,7 @@
 }
 .header__inner {
     @include flex-between;
-    background-color: rgba(49, 203, 237, 0.1);
+    background-color: rgba(0, 4, 8, 0.1);
     backdrop-filter: blur(15px);
     padding: 1rem;
 
@@ -20,6 +20,7 @@
             color: var(--black200);
         }
     }
+    
     .header__nav {
 
         @media (max-width: 800px){
@@ -33,7 +34,7 @@
                     position: absolute;
                     right: 0;
                     top: 68px;
-                    background-color: rgba(49, 203, 237, 0.1);
+                    background-color: rgba(116,99,99,0.1);
                     backdrop-filter: blur(15px);
                     z-index: 10000;
                     min-width: 150px;
@@ -125,4 +126,4 @@
             }
         }
     }
-}
+} 
