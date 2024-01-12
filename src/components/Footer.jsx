@@ -7,7 +7,7 @@ const Footer = () => {
         <footer id="footer" role="contentinfo">
             <div className="footer__inner">
                 <h2 className="footer__text">
-                    <div>webstoryboy</div>
+                    <div>HNWORKS</div>
                     <div>@webs</div>
                 </h2>
                 <div className="footer__info">

@@ -1,6 +1,6 @@
 import React from "react";
 
-import RGM from "../assets/img/RGM.jpg";
+import Hnworks from "../assets/img/Hnworks.png";
 
 import { introText } from "../constants";
 
@@ -29,7 +29,7 @@ const Intro = () => {
                         <div>{introText.desc[3]}</div>
                     </div>
                     <div className="img">
-                        <img src={RGM} alt="RGM" />
+                        <img src={Hnworks} alt="Hnworks" />
                     </div>
                 </div>
                 <div className="intro__lines bottom" aria-hidden="true">
