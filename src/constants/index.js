@@ -33,7 +33,7 @@ export const headerNav = [
 ];
 
 export const introText = {
-    title: "Hnworks Members",
+    title: "HNW Members",
     desc: ["Talent is", "found at the end of the", "effort"]
 }
 
