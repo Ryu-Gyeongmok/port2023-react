@@ -7,6 +7,14 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 const Port = () => {
     const horizontalRef = useRef(null);
     const sectionRef = useRef([]);
+    // const width = 500; // 팝업의 가로 길이: 500
+    // const height = 400; // 팝업의 세로 길이 : 500
+    //  // 팝업을 부모 브라우저의 정 중앙에 위치시킨다.
+    // const left = window.screenX + (window.outerWidth - width) / 2;
+    // const top = window.screenY + (window.outerHeight - height) / 2;
+    // const onPopup = () => {             
+    //      window.open("", "개발자 정보", `width=${width},height=${height},left=${left},top=${top}`);    
+    // }
 
     useEffect(() => {
         gsap.registerPlugin(ScrollTrigger);
@@ -49,7 +57,7 @@ const Port = () => {
                         >
                             <span className="num">{port.num}.</span>
                             <a 
-                                href={port.code} 
+                                //href={port.code} 
                                 target="_blank" 
                                 className="img" 
                                 rel="noreferrer noopener"

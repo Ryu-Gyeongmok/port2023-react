@@ -94,7 +94,7 @@ export const portText = [
         title: "RYU.GM",
         img: port01,
         code: "",
-        view: "https://www.hnworks.com/",
+        view: "https://www.instagram.com/k_mo_gi",
         name: "",
     },
     {
@@ -102,7 +102,7 @@ export const portText = [
         title: "JUNG.HJ",
         img: port02,
         code: "",
-        view: "https://www.hnworks.com/",
+        view: "https://www.instagram.com/2jay_is_sunn",
         name: "",
     },
     {
@@ -110,7 +110,7 @@ export const portText = [
         title: "H.DC",
         img: port03,
         code: "",
-        view: "https://www.hnworks.com/",
+        //view: "https://www.instagram.com/heodaecheol",
         name: "",
     },
     {
@@ -118,7 +118,7 @@ export const portText = [
         title: "KANG.OH",
         img: port04,
         code: "",
-        view: "https://www.hnworks.com/",
+        view: "https://www.instagram.com/0huuuxn",
         name: "",
     },
 ];
